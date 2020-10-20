@@ -1,0 +1,25 @@
+ 	-Graduated-	-Continued-	-Received TxCHSE-	-Dropped out-	-Graduated,
+continued, or
+received TxCHSE-
+Group	Class	Number	Rate (%)	Number	Rate (%)	Number	Rate (%)	Number	Rate (%)	Number	Rate (%)
+African American	1,972	1,671	84.7	95	4.8	5	0.3	201	10.2	1,771	89.8
+ 
+American Indian	-	-	80.8	-	3.8	0	0.0	-	15.4	-	84.6
+ 
+Asian	172	145	84.3	11	6.4	0	0.0	16	9.3	156	90.7
+ 
+Hispanic	6,315	5,501	87.1	257	4.1	6	0.1	551	8.7	5,764	91.3
+ 
+Pacific Islander	-	-	84.6	-	7.7	0	0.0	-	7.7	-	92.3
+ 
+White	476	426	89.5	13	2.7	0	0.0	37	7.8	439	92.2
+ 
+Multiracial	-	-	88.9	-	4.4	0	0.0	-	6.7	-	93.3
+ 
+Economically disadvantaged	<7,350	-	88.2	-	3.9	-	0.1	-	7.8	-	92.2
+ 
+Not economically disadvantaged	<1,700	-	80.0	-	5.7	-	0.2	-	14.1	-	85.9
+ 
+Female	<4,600	-	89.2	-	3.2	-	<0.1	-	7.5	-	92.5
+ 
+Male	<4,450	-	84.0	-	5.2	-	0.2	-	10.5	-	89.5
